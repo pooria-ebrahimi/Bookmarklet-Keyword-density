@@ -1,21 +1,12 @@
-# bookmarklet
-In order to be able to find the density of the keywords we are considering, we can use this code.
-#User guide
 
-#first stage
-First, copy the code that I put completely and enter your Chrome browser
-Click on the bookmarks and click Add Page
-Give a desired name inside the name
-And enter the desired code in the site address
-Click confirm
+To determine the density of the keywords you're interested in, follow these steps:
 
-#second stage
-Go to the page where you want to check the words and run the code (just click the method once)
-It asks you to enter the number 1 or 2
-In the first case, the keywords are separated with enter, so you have to press the number 1
-The second case of keywords is separated by "/" character
+**User Guide**
 
-#The third stage
-According to the entered number and desired mode, enter the keywords and check the number
+**Step 1:** Copy the entire code provided. Open your Chrome browser, go to the bookmarks menu, and select "Add Page." Enter a name of your choice and paste the code into the URL field. Click "Save."
 
-Good Luck
+**Step 2:** Navigate to the webpage where you want to analyze the keywords and run the code (just click it once). You will be prompted to enter either 1 or 2. If the keywords are separated by line breaks, press 1. If they are separated by the "/" character, press 2.
+
+**Step 3:** Based on the number you entered and your chosen mode, input the keywords to check their frequency.
+
+Good luck!
